@@ -1,3 +1,7 @@
+# ToDoApp-React
+
+Uses React.js and Materialize CSS
+Based on [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg) React Tutorials
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
